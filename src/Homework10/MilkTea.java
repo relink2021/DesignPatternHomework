@@ -1,4 +1,4 @@
-package Homework10.transparent;
+package Homework10;
 
 /**
  * 抽象奶茶接口，需要定义名称和价格

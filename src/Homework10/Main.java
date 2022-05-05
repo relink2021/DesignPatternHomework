@@ -1,4 +1,4 @@
-package Homework10.transparent;
+package Homework10;
 
 /**
  * 测试函数

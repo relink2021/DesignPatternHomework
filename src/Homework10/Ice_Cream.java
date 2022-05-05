@@ -1,4 +1,4 @@
-package Homework10.transparent;
+package Homework10;
 
 public class Ice_Cream extends Taste {
     private String description = "加冰淇凌";

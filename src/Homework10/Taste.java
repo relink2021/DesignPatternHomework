@@ -1,4 +1,4 @@
-package Homework10.transparent;
+package Homework10;
 
 /**
  * 抽象类：奶茶风味
