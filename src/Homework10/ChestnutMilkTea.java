@@ -13,9 +13,4 @@ public class ChestnutMilkTea implements MilkTea {
     public int getPrice() {
         return 13;
     }
-
-    // 半透明的修饰模式
-    public String chestnutMethod() {
-        return "板栗奶茶特有的方法";
-    }
 }
