@@ -18,3 +18,11 @@
 **Homework7：创建者模式**
 
 **Homework8：抽象工厂模式**
+
+**Homework9：桥接器模式**
+
+**Homework10：装饰器模式**
+
+**Homework11：状态模式**
+
+**Homework12：观察者模式**
